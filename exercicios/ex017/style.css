@@ -1,0 +1,35 @@
+@charset="UTF-8";
+
+body{
+    background-color: #60c7ff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width:1000px;
+    margin: auto;
+ }
+
+ h1#principal{
+    text-align: center;
+    font-size: 40px;
+    
+}
+h1{
+    background-color:#052f464f ;
+    font-size: 40px ;
+}
+
+h2.basico{
+    color: #04701f;
+}
+h2.intermediario{
+    color: #898b02;
+}
+h2.avancado{
+    color: #a10000;
+
+}
+p{
+    text-align:justify ;
+    font-size: 20px;
+  
+}
